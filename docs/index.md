@@ -24,5 +24,6 @@ Supported Executer:
 
 [Orginal Project](https://github.com/Friendlyfireisbad/XenWareV1)
 
-[This is an image](https://cdn.discordapp.com/attachments/963936248630747187/964273788877418597/Xenware_lolgo.PNG)
+<img src="https://cdn.discordapp.com/attachments/963936248630747187/964273788877418597/Xenware_lolgo.PNG" width="50" />
+
 
