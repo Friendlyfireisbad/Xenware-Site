@@ -1,5 +1,5 @@
 
-### XenWare <img src="https://cdn.discordapp.com/attachments/963936248630747187/964273788877418597/Xenware_lolgo.PNG" width="50" />
+### XenWare <img src="https://cdn.discordapp.com/attachments/963936248630747187/964273788877418597/Xenware_lolgo.PNG" width="25" />
 
 XenWare is Roblox *script* Hub  
 
