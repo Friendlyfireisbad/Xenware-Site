@@ -6,7 +6,9 @@ XenWare is Roblox script Hub
 
 XenWareV1
 XenWareV1 Script:
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Friendlyfireisbad/XenWareV1/main/loader"))()```
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Friendlyfireisbad/XenWareV1/main/loader"))() 
+```
 
 
 Supported Executer:
@@ -18,5 +20,4 @@ Supported Executer:
 - Protosmasher
 - Script-Ware
 
-[Link](url) and ![Image](src)
-
+[Orginal Project](https://github.com/Friendlyfireisbad/XenWareV1).
