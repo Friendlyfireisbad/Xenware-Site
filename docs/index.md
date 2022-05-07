@@ -1,7 +1,7 @@
 
 ### XenWare
 
-XenWare is Roblox script Hub  
+XenWare is Roblox *script* Hub  
 
 
 
@@ -26,4 +26,6 @@ Supported Executer:
 
 
 git status
+git add
+git commit
 
