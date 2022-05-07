@@ -25,7 +25,4 @@ Supported Executer:
 [Orginal Project](https://github.com/Friendlyfireisbad/XenWareV1)
 
 
-git status
-git add
-git commit
 
