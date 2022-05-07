@@ -21,6 +21,6 @@ Supported Executer:
 - Protosmasher
 - Script-Ware
 ```
-[Orginal Project](https://github.com/Friendlyfireisbad/XenWareV1).
-[GitHub Pages](https://pages.github.com/).
+[Orginal Project](https://github.com/Friendlyfireisbad/XenWareV1)
+
 
